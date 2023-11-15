@@ -1,0 +1,8 @@
+{
+  "SInventory": {
+    "target": {
+      "object": "INVENTORY_VIEW",
+      "schema": "ADMIN_HDI_DB_1"
+    }
+  }
+}
